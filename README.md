@@ -23,3 +23,8 @@ Each individual marker gives the type of incident call and a time stamp.
 
 ## EMS Tag
 ![Ems zoomed with tag](https://user-images.githubusercontent.com/88803320/150845820-3380463e-d253-46fa-8996-3c0de5598bbc.png)
+
+
+## Heat Map of 911 Calls
+This map shows a heat map of all 911 calls in and around Philadelphia alot of the heavy areas with a lot of calls are mainly the cities and housing areas.
+![HeatMap](https://user-images.githubusercontent.com/88803320/151400382-3774084d-4382-4126-80f0-dbb93daaae68.png)
