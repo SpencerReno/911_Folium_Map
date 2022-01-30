@@ -5,7 +5,7 @@ Here is the full map of all three types of 911 calls fire, ems, and traffic inci
 ![full map](https://user-images.githubusercontent.com/88803320/150844913-87aa66e2-ed69-4d7d-80c2-2c52d0e3bb1c.png)
 
 ## EMS
-![ems full](https://user-images.githubusercontent.com/88803320/150845469-dbca224a-5af3-4d5c-92c9-05c590a88563.png)
+![fire full](https://user-images.githubusercontent.com/88803320/151709114-521330dc-1e3b-4868-9449-65a63706e5f3.png)
 
 ## Fire
 ![fire full](https://user-images.githubusercontent.com/88803320/150845526-22e59c28-666a-46ae-9758-ccf5d13a43ce.png)
